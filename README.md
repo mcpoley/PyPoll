@@ -1,13 +1,12 @@
 
-#PyPol Report
+# PyPoll Report
 
-
-##Overview of Method
+## Overview of Method
 
 For the upcoming congressional election in Colorado, the election board has been tasked with auditing the election turn-out in terms of total votes cast, total votes per candidate, vote percentage per candidate, and overall winner. The voting methods taken into consideration were mail in ballots, direct recording electronic, and punch cards. In a similar manner, the board was also asked to find the same summary voting information for each county. An automated process used to tabulate these results can be done with Python via "for" loops. Once this code was formatted for the congressional district elections, it was saved for alternate future election use.
 
 
-##Results
+## Results
 
 o	In their analysis, the election team discovered that a total 369, 711 votes were cast. This was determined by setting a total vote-count to zero, adding by one each time through the loop:
 
