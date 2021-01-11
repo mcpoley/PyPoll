@@ -1,6 +1,6 @@
 #Election Overview
 
-##Overview of Election Audit
+Overview of Election Audit
 
 For the upcoming congressional election in Colorado, the election board has been tasked with auditing the election turn-out in terms of total votes cast, total votes per candidate, vote percentage per candidate, and overall winner. The voting methods taken into consideration were mail in ballots, direct recording electronic, and punch cards. In a similar manner, the board was also asked to find the same summary voting information for each county. An automated process used to tabulate these results can be done with Python via "for" loops. Once this code was formatted for the congressional district elections, it was saved for alternate future election use.
 
